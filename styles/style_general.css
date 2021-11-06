@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+
+*{
+
+    list-style: none;
+    font-family: 'Cheerful Newyear', sans-serif;
+}
+
+html,body {
+    height:100%;
+}
+body {
+    background:rgb(211, 41, 47);
+}
+th, td {
+    padding: 5px;
+    
+}
+th {
+	font-size: 30px;
+    height: 30%;
+    color: floralwhite;
+}
+td {
+	font-size: 22px;
+    color:rgb(29, 29, 29)
+}
+.table {
+    padding: 25px;
+    width: 100%
+      }
+.th_nome {
+	width: 70%;
+    text-align: left
+}
+.th_prezzo {
+	width: 30%;
+	font-size:26px;
+	font-weight: normal;
+	text-align:right
+}
+.td_nome {
+	width: 70%;
+}
+.td_prezzo {
+	width: 30%;
+    text-align: right
+}
+.footer{
+    background: rgb(29,29,29);
+    padding: 30px;
+    color: floralwhite;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.footer_wrapper {
+    height: 80%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: normal;
+}
