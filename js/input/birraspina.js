@@ -2,10 +2,14 @@
 window.birraSpinaData = [
   {
     "Nome": "THERESIANER - PILS",
-    "Prezzo": "p 2€ / m 4€",
+    "Descrizione": "",
+    "Piccola": "Piccola 2€",
+    "Media": "Media 4€",
   },
   {
     "Nome": "LA PAZ - APA",
-    "Prezzo": "p 2.5€ / m 5€",
+    "Descrizione": "",
+    "Piccola": "Piccola 2.5€",
+    "Media": "Media 5€",
   },
 ];
