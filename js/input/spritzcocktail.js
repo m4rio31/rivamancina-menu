@@ -36,7 +36,7 @@ window.spritzCocktailData = [
     "Prezzo": "6€",
   },
   {
-    "Nome": "LOMDON MULE",
+    "Nome": "LONDON MULE",
     "Descrizione": "",
     "Prezzo": "6€",
   },
