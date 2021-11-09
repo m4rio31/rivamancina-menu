@@ -55,7 +55,8 @@ td {
     margin-top: 5px;
 }
 .footer_container {
-    width:30%;
+    width:auto;
+    border: 1px solid red;
     height: auto;
     display: flex;
     display: -webkit-flex;
@@ -86,4 +87,4 @@ td {
     text-align: left;
 }
 .footer_icon{
-    color: #fff; float: left; padding: 10px; width: 50%;}
+    color: #fff; float: left; padding: 10px; width: 70%;}
