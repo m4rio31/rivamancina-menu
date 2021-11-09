@@ -56,7 +56,6 @@ td {
 }
 .footer_container {
     width:auto;
-    border: 1px solid red;
     height: auto;
     display: flex;
     display: -webkit-flex;
