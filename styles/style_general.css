@@ -87,3 +87,23 @@ td {
 }
 .footer_icon{
     color: #fff; float: left; padding: 10px; width: 70%;}
+
+ /* unvisited link */
+ a:link {
+    color: floralwhite;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: floralwhite;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(211, 41, 47);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(211, 41, 47);
+  } 
