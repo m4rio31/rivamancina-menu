@@ -50,9 +50,10 @@ td {
 }
 .footer{
     background: rgb(29,29,29);
-    padding: 30px;
+    padding: 15px;
     color: floralwhite;
-    margin-top: 5px;
+    margin-top: 3px;
+    
 }
 .footer_container {
     width:auto;
@@ -63,6 +64,8 @@ td {
     -webkit-flex-flow: column nowrap;
     justify-content: space-around;
     -webkit-justify-content: space-around;
+    align-items: left;
+    
    }
 .footer_elem {
     width:10px;
@@ -70,6 +73,7 @@ td {
     display: -webkit-flex;
     flex-flow: row nowrap;
     -webkit-flex-flow: row nowrap;
+    align-items: bottom;
 }
 .table_wrapper {
     width: 60px;
