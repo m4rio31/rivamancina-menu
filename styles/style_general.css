@@ -79,12 +79,9 @@ td {
     font-weight: normal;
 }
 .footer_logo {
-    border: 1px solid red;
     width: 15%;
 }
 .footer_desc {
-    border: 1px solid red;
-    width: 85%;
     font-size: 20px;
     text-align: left;
     line-height: 180%;
