@@ -1,6 +1,6 @@
 {
     "name": "RivaMancina - Menu",
-    "short_name": "RivaMancina Menu",
+    "short_name": "RivaMancina",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "rgb(211, 41, 47)",
