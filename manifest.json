@@ -2,15 +2,16 @@
     "name": "RivaMancina - Menu",
     "short_name": "RivaMancina",
     "start_url": "/index.html",
+    "display_override": ["window-control-overlay", "minimal-ui"],
     "display": "standalone",
-    "background_color": "rgb(211, 41, 47)",
-    "theme_color": "rgb(211, 41, 47)",
+    "background_color": "#333",
+    "theme_color": "#333",
     "orientation": "portrait-primary",
     "icons": [
         {
             "src": "/img/app_logo.png",
             "type": "image/png",
-            "sizes": "144x144"
+            "sizes": "200x200"
         }
     ]
 }
