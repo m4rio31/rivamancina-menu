@@ -8,14 +8,9 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "/img/app_logo.png",
-            "type": "image/png",
-            "sizes": "200x200"
-        },
-        {
             "src":"/img/maskable_icon.png",
             "type":"img/png",
-            "sizes":"192x192",
+            "sizes":"512x512",
             "purpose":"maskable"
         }
     ]
