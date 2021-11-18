@@ -3,13 +3,19 @@
     "short_name": "RivaMancina",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#333",
-    "theme_color": "#333",
+    "background_color": "rgb(211, 41, 47)",
+    "theme_color": "rgb(211, 41, 47)",
     "orientation": "portrait",
     "icons": [
         {
+            "src":"/img/app_logo.png",
+            "type":"image/png",
+            "sizes":"512x512",
+            "purpose":"any"
+        },
+        {
             "src":"/img/maskable_icon.png",
-            "type":"img/png",
+            "type":"image/png",
             "sizes":"512x512",
             "purpose":"maskable"
         }
