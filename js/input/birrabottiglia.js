@@ -1,7 +1,7 @@
 
 window.birraBottigliaData = [
   {
-    "Nome": "RAFFO 0.33L",
+    "Nome": "RAFFO 0.3L",
     "Prezzo": "2.5€",
   },
   {
