@@ -10,4 +10,9 @@ window.bianchiData = [
     "Descrizione":"100% MELON DE BOURGOGNE - FRANCIA",
     "Prezzo": "4€",
   },
+  {
+    "Nome": "MUSica",
+    "Descrizione":"100% MELON DE BOURGOGNE - FRANCIA",
+    "Prezzo": "4€",
+  },
 ];
