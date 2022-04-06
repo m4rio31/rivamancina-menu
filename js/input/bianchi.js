@@ -1,18 +1,18 @@
 
 window.bianchiData = [
   {
-    "Nome": "LUGANA D.O.C.",
+    "Nome": "CUSTOZA D.O.C.",
     "Descrizione":"100% TURBIANA - (VR)",
-    "Prezzo": "3€",
+    "Prezzo": "2€",
   },
   {
-    "Nome": "MUSCADET SEVRE-ET-MAINE",
+    "Nome": "FALANGHINA",
     "Descrizione":"100% MELON DE BOURGOGNE - FRANCIA",
-    "Prezzo": "4€",
+    "Prezzo": "3.5€",
   },
   {
-    "Nome": "MUSica",
+    "Nome": "GRILLO",
     "Descrizione":"100% MELON DE BOURGOGNE - FRANCIA",
-    "Prezzo": "4€",
+    "Prezzo": "3.5€",
   },
 ];

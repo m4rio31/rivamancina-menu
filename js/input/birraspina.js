@@ -12,4 +12,10 @@ window.birraSpinaData = [
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",
   },
+  {
+    "Nome": "STRONGHARM - ROSSA",
+    "Descrizione": "",
+    "Piccola": "Piccola 2,5€",
+    "Media": "Media 5€",
+  },
 ];
