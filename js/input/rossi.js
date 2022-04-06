@@ -6,7 +6,7 @@ window.rossiData = [
     "Prezzo": "3.5€",
   },
   {
-    "Nome": "MONTECUCCO D.O.C.",
+    "Nome": "MONTEPULCIANO D.O.C.",
     "Descrizione": "90% SANGIOVESE 10% CILIEGIOLO - AZ.AGR. LE CALLE (BR)",
     "Prezzo": "3.5€",
   },
