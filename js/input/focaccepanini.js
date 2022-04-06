@@ -1,6 +1,8 @@
 
 window.focaccePaniniData = [
-  {
-    "Nome": "CHIEDETE E VI DIREMO IL MENÙ DEL GIORNO"
-  },
+   {
+    "Nome": "FRIARIELLI E PROVOLA",
+    "Descrizione":"100% TURBIANA - (VR)",
+    "Prezzo": "5€",
+   },
 ];
