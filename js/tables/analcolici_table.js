@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded",()=>{
-  let data=window.rossiData;
+  let data=window.analcoliciData;
   let table = document.getElementById("analcoliciTable")
   let innerHtml='<th class="th_nome">Analcolici</th>'
   for(let i=0;i<data.length;i++){
