@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded",()=>{
   let data=window.rossiData;
-  let table = document.getElementById("vinibottigliaTable")
+  let table = document.getElementById("viniBottigliaTable")
   let innerHtml='<th class="th_nome">VINI IN BOTTIGLIA</th>'
   for(let i=0;i<data.length;i++){
     innerHtml+="<tr>"
