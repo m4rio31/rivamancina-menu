@@ -3,6 +3,6 @@ window.viniBottigliaData = [
   {
     "Nome": "VINO IN BOTTIGLIA",
     "Descrizione": "DESCRIZIONE",
-    "Prezzo": "3€",
+    "Prezzo": "10€",
   },
 ];
