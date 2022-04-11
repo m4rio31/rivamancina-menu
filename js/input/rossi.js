@@ -14,6 +14,6 @@ window.rossiData = [
   {
     "Nome": "BARBERA D'ALBA D.O.C.",
     "Descrizione": "100% BARBERA - VAL DEL PRETE (CN)",
-    "Prezzo": "3.5€",
+    "Prezzo": "4€",
   },
 ];

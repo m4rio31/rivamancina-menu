@@ -7,7 +7,7 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   },
   {
-    "Nome": "LA PAZ - APA",
+    "Nome": "CAMERON - IPA",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",

@@ -26,8 +26,13 @@ window.spritzCocktailData = [
     "Prezzo": "5€",
   },
   {
+    "Nome": "BOULEVARDIER",
+    "Descrizione": "",
+    "Prezzo": "6€",
+  },
+  {
     "Nome": "GIN TONIC",
-    "Descrizione": "GILKES/TANQUERAY/HENDRIK'S/MARE/CUBICAL ECC.",
+    "Descrizione": "GORDON/TANQUERAY/HENDRIK'S/MARE/CUBICAL ECC.",
     "Prezzo": "da 5€ a 8€",
   },
   {

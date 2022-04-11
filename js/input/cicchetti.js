@@ -24,8 +24,4 @@ window.cicchettiData = [
     "Nome": "CROSTINO VEGETARIANO",
     "Prezzo": "1.5€",
   },
-  {
-    "Nome": "PANINETTO CON SALAME",
-    "Prezzo": "1.5€",
-  },
 ];

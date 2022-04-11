@@ -24,5 +24,9 @@ window.birraBottigliaData = [
     "Nome": "BIRRA ARTIGIANALE LA PAZ - A.P.A.",
     "Prezzo": "4,5€",
   },
+  {
+    "Nome": "BIRRA ARTIGIANALE TOCCALMATTO LATTINA 0,44L- NEIPA",
+    "Prezzo": "5€",
+  },
  
 ];
