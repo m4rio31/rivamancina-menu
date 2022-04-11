@@ -3,7 +3,7 @@ window.rossiData = [
   {
     "Nome": "MONTEPULCIANO D.O.C.",
     "Descrizione": "100% MONTEPULCIANO - CANTINA TOLLO (CH)",
-    "Prezzo": "3.5€",
+    "Prezzo": "2.5€",
   },
   {
     "Nome": "VALPOLICELLA RIPASSO D.O.C.",
