@@ -13,7 +13,7 @@ window.cicchettiData = [
     "Prezzo": "1.5€",
   },
   {
-    "Nome": "CROSTINO BURRO E ACCIUGA",
+    "Nome": "CROSTINO BURRATA E ACCIUGA",
     "Prezzo": "1.5€",
   },
   {
