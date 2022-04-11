@@ -6,4 +6,8 @@ window.viniSfusiData = [
     "MezzoLitro": "1/2 litro 7€",
     "Litro": "1 litro 12€",
   },
+  {
+    "Nome": " ROSSO - CANTINA CARUSSIN (AT)",
+    "Descrizione": " ",
+  },
 ];
