@@ -5,23 +5,24 @@ window.birraBottigliaData = [
     "Prezzo": "2.5€",
   },
   {
-    "Nome": "CORONA O.33L",
-    "Prezzo": "3€",
+    "Nome": "THERESIANER WIT 0,33L",
+    "Prezzo": "3,5€",
   },
   {
-    "Nome": "ICHNUSA NON FILTR. 0.33L",
-    "Prezzo": "3€",
+    "Nome": "HOP HOUSE - GUINESS LAGER O.33L",
+    "Prezzo": "3,5€",
   },
   {
-    "Nome": "ARTIGIANALI TOCCALMATTO O.33L",
-    "Prezzo": "4.5€",
+    "Nome": "CAULIER - BIONDA NO GLUTINE 0,33L",
+    "Prezzo": "4€",
   },
   {
-    "Nome": "ARTIGIANALI TOCCALMATTO LATTINA 0.5L",
-    "Prezzo": "5€",
+    "Nome": "BIRRA ARTIGIANALE LA PAZ - PILS",
+    "Prezzo": "4€",
   },
   {
-    "Nome": "WEIZEN 0.5L",
-    "Prezzo": "5€",
+    "Nome": "BIRRA ARTIGIANALE LA PAZ - A.P.A.",
+    "Prezzo": "4,5€",
   },
+ 
 ];
