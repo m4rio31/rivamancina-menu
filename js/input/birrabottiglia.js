@@ -27,6 +27,12 @@ window.birraBottigliaData = [
   {
     "Nome": "BIRRA ARTIGIANALE TOCCALMATTO LATTINA 0,44L- NEIPA",
     "Prezzo": "5€",
+  },  
+  {
+    "Nome": "BIRRA ARTIGIANALE BUTTIGA LIBERTA' - KOLSCH",
+    "Prezzo": "5€",
   },
- 
+  { "Nome": "BIRRA ARTIGIANALE MASOALTO - SESSION IPA/PORTER",
+    "Prezzo": "5€",
+  },
 ];

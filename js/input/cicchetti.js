@@ -9,10 +9,6 @@ window.cicchettiData = [
     "Prezzo": "2.5€",
   },
   {
-    "Nome": "CROSTINO DEL GIORNO",
-    "Prezzo": "1.5€",
-  },
-  {
     "Nome": "CROSTINO BURRATA E ACCIUGA",
     "Prezzo": "1.5€",
   },
@@ -21,7 +17,15 @@ window.cicchettiData = [
     "Prezzo": "1.5€",
   },
   {
-    "Nome": "CROSTINO VEGETARIANO",
+    "Nome": "CROSTINO SPALLA COTTA E CREMA DI CARCIOFI",
+    "Prezzo": "1.5€",
+  },
+  {
+    "Nome": "CROSTINO FRIARIELLI E PROVOLA",
+    "Prezzo": "1.5€",
+  },
+  {
+    "Nome": "CROSTINO CON SOLO CRUDO/SPALLA/GOLA",
     "Prezzo": "1.5€",
   },
 ];
