@@ -24,6 +24,7 @@ window.viniBottigliaData = [
     "Nome": "CHIANTI COLLI ARETINI D.O.C.G.",
     "Descrizione": "90% SANGIOVESE, 10% COLORINO-CANAIOLO-CILIEGIOLO - PATERNA (AR)",
     "Prezzo": "20€",
+  },
   {
     "Nome": "NEBBIOLO D.O.C.",
     "Descrizione": "100% NEBBIOLO - FAMIGLIA MARRONE (CN)",
