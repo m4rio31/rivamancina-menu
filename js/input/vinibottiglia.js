@@ -7,7 +7,7 @@ window.viniBottigliaData = [
   },
   {
     "Nome": "CREMANT D'ALSACE BRUT",
-    "CHARLOTTE & ANTOINE KREYNWEISS - FRANCIA ": "",
+    "Descrizione": "CHARLOTTE & ANTOINE KREYNWEISS - (FRANCIA)",
     "Prezzo": "28€",
   },
   {
