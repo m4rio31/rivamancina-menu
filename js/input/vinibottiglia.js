@@ -21,7 +21,7 @@ window.viniBottigliaData = [
     "Prezzo": "20€",
   }, 
   {
-    "Nome": "CHIANTI COLLI ARETINI D.O.C.G.",
+    "Nome": "stocazzo",
     "Descrizione": "90% SANGIOVESE, 10% COLORINO-CANAIOLO-CILIEGIOLO - PATERNA (AR)",
     "Prezzo": "20€",
   },
