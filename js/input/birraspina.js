@@ -7,7 +7,7 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   },
   {
-    "Nome": "CAMERON - IPA",
+    "Nome": "MASOALTO SELVATICA - IPA ARTIGIANALE",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",
