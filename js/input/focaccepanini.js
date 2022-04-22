@@ -14,15 +14,16 @@ window.focaccePaniniData = [
     "Nome": "SPALLA COTTA E CREMA DI CARCIOFI",
     "Descrizione":"",
     "Prezzo": "5€",
-   },
+   }, 
    {
-    "Nome": "GORGONZOLA E GOLA",
+    "Nome": "SQUACQUERONE E VERDURE GRIGLIATE",
     "Descrizione":"",
     "Prezzo": "5€",
    },
    {
-    "Nome": "CREMA DI RADICCHIO E BRIE",
+    "Nome": "GORGONZOLA, GOLA E NOCI",
     "Descrizione":"",
     "Prezzo": "5€",
    },
+  
 ];
