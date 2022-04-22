@@ -13,7 +13,7 @@ window.birraSpinaData = [
     "Media": "Media 5€",
   },
   {
-    "Nome": "STRONGHARM - ROSSA",
+    "Nome": "MASOALTO SENZA TIMUR -SESSION IPA ARTIGIANALE",
     "Descrizione": "",
     "Piccola": "Piccola 2,5€",
     "Media": "Media 5€",

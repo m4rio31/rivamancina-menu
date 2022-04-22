@@ -11,6 +11,16 @@ window.viniBottigliaData = [
     "Prezzo": "28€",
   },
   {
+    "Nome": "LUGANA D.O.C.",
+    "Descrizione": "100% TREBBIANO DI LUGANA - LE MORETTE (VR)",
+    "Prezzo": "18€",
+  },
+  {
+    "Nome": "VERMENTINO COLLI DI LUNI D.O.C.",
+    "Descrizione": "100% VERMENTINO - LA PIETRA DEL FOCOLARE (SP)",
+    "Prezzo": "18€",
+  },
+  {
     "Nome": "CHEVERNY A.O.P.",
     "Descrizione": "SAUVIGNON, FIE GRIS, CHARDONNAY - CLOS DU TUE-BOEUF (FRANCIA)",
     "Prezzo": "28€",
@@ -28,6 +38,6 @@ window.viniBottigliaData = [
   {
     "Nome": "NEBBIOLO D.O.C.",
     "Descrizione": "100% NEBBIOLO - FAMIGLIA MARRONE (CN)",
-    "Prezzo": "20€",
+    "Prezzo": "22€",
   },
 ];
