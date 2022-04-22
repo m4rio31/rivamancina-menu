@@ -2,12 +2,12 @@
 window.bianchiData = [
   {
     "Nome": "CUSTOZA D.O.C.",
-    "Descrizione":"CORTESE, GARGANEGA, TREBBIANO, MALVASIA, TOCAI - MENEGOTTI(VR)",
+    "Descrizione":"CORTESE, GARGANEGA, TREBBIANO, MALVASIA, TOCAI - MENEGOTTI (VR)",
     "Prezzo": "2,5€",
   },
   {
     "Nome": "FALANGHINA DEL SANNIO D.O.C.",
-    "Descrizione":"100% FALANGHINA- AIA DEI COLOMBI(BN)",
+    "Descrizione":"100% FALANGHINA- AIA DEI COLOMBI (BN)",
     "Prezzo": "3.5€",
   },
   {

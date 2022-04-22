@@ -18,7 +18,7 @@ window.viniBottigliaData = [
   {
     "Nome": "VERMENTINO COLLI DI LUNI D.O.C.",
     "Descrizione": "100% VERMENTINO - LA PIETRA DEL FOCOLARE (SP)",
-    "Prezzo": "18€",
+    "Prezzo": "20€",
   },
   {
     "Nome": "CHEVERNY A.O.P.",
