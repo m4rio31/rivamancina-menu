@@ -14,7 +14,7 @@ window.cicchettiData = [
   },
   {
     "Nome": "TRANCIO DI FOCACCIA BARESE VEGANA",
-    "Prezzo": "2,5€",
+    "Prezzo": "2€",
   },
   { 
     "Nome": "CROSTINO BURRATA E ACCIUGA",
