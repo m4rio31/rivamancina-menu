@@ -7,7 +7,7 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   },
   {
-    "Nome": "MASOALTO SELVATICA - IPA ARTIGIANALE",
+    "Nome": "LA PAZ - A.P.A. ARTIGIANALE",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",

@@ -12,8 +12,8 @@ window.rossiData = [
   },
   
   {
-    "Nome": "BARBERA D'ALBA D.O.C.",
-    "Descrizione": "100% BARBERA - VAL DEL PRETE (CN)",
-    "Prezzo": "4€",
+    "Nome": "AGLIANICO DEL SANNIO D.O.C.",
+    "Descrizione": "100% AGLIANICO - AIA DEI COLOMBI (BN)",
+    "Prezzo": "3,5€",
   },
 ];
