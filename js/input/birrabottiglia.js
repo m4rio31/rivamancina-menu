@@ -32,7 +32,7 @@ window.birraBottigliaData = [
     "Nome": "BIRRA ARTIGIANALE BUTTIGA LIBERTA' - KOLSCH",
     "Prezzo": "5€",
   },
-  { "Nome": "BIRRA ARTIGIANALE MASOALTO - SESSION IPA/PORTER",
+  { "Nome": "BIRRA ARTIGIANALE MASOALTO - IPA/PILS/PORTER",
     "Prezzo": "5€",
   },
 ];

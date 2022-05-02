@@ -16,6 +16,11 @@ window.viniBottigliaData = [
     "Prezzo": "18€",
   },
   {
+    "Nome": "CUSTOZA SUPERIORE D.O.C.",
+    "Descrizione": "50% CORTESE, 50% GARGANEGA - MENEGOTTI (VR)",
+    "Prezzo": "20€",
+  },
+  {
     "Nome": "VERMENTINO COLLI DI LUNI D.O.C.",
     "Descrizione": "100% VERMENTINO - LA PIETRA DEL FOCOLARE (SP)",
     "Prezzo": "20€",
