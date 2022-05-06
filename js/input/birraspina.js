@@ -16,5 +16,6 @@ window.birraSpinaData = [
     "Nome": "SINERGIA '21 DUBBEL 7,5%- TRAPPISTA ARTIGIANALE ITALIANA",
     "Descrizione": "",
     "Piccola": "0,25L 4€",
+    "Media": "0,25L 4€",
   },
 ];
