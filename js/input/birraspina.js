@@ -14,7 +14,7 @@ window.birraSpinaData = [
   }, 
   {
     "Nome": "SINERGIA '21 DUBBEL 7,5%- TRAPPISTA ARTIGIANALE ITALIANA",
-    "Descrizione": "TRE FONTANE (ROMA)",
+    "Descrizione": "",
     "Piccola": "0,25L 4€",
     ,
   },
