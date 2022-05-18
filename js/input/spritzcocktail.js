@@ -8,7 +8,7 @@ window.spritzCocktailData = [
   {
     "Nome": "SPRITZ",
     "Descrizione": "APEROL/CAMPARI/SELECT/CYNAR",
-    "Prezzo": "3€",
+    "Prezzo": "3,5€",
   },
   {
     "Nome": "NEGRONI",

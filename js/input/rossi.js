@@ -12,8 +12,8 @@ window.rossiData = [
   },
   
   {
-    "Nome": "AGLIANICO DEL SANNIO D.O.C.",
-    "Descrizione": "100% AGLIANICO - AIA DEI COLOMBI (BN)",
+    "Nome": "ZURRIA - ISOLA DEI NURAGHI I.G.T. ROSSO",
+    "Descrizione": "VITIGNI AUTOCTONI SARDI - TENUTA MASONE MANNU (OT)",
     "Prezzo": "3,5€",
   },
 ];

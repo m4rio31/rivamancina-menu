@@ -20,10 +20,4 @@ window.focaccePaniniData = [
     "Descrizione":"",
     "Prezzo": "5€",
    },
-   {
-    "Nome": "GORGONZOLA, GOLA E NOCI",
-    "Descrizione":"",
-    "Prezzo": "5€",
-   },
-  
 ];

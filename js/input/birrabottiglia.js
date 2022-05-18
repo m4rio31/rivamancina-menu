@@ -9,14 +9,6 @@ window.birraBottigliaData = [
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "HOP HOUSE - GUINESS LAGER O.33L",
-    "Prezzo": "3,5€",
-  },
-  {
-    "Nome": "CAULIER - BIONDA NO GLUTINE 0,33L",
-    "Prezzo": "4€",
-  },
-  {
     "Nome": "WEIZEN ORFRUMER 0,5L",
     "Prezzo": "4€",
   },
@@ -32,7 +24,8 @@ window.birraBottigliaData = [
     "Nome": "BIRRA ARTIGIANALE BUTTIGA LIBERTA' - KOLSCH",
     "Prezzo": "5€",
   },
-  { "Nome": "BIRRA ARTIGIANALE MASOALTO - IPA/PILS/PORTER",
+  { 
+    "Nome": "BIRRA ARTIGIANALE MASOALTO - IPA/SESSION IPA/PILS/PORTER",
     "Prezzo": "5€",
   },
 ];
