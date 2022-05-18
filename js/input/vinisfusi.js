@@ -6,7 +6,7 @@ window.viniSfusiData = [
     "MezzoLitro": "1/2 litro 7€",
     "Litro": "1 litro 13€",
   }, 
- {
+  {
     "Nome": " ROSSO (BARBERA)  - CANTINA CARUSSIN (AT)",
     "Descrizione": " ",
     "Bicchiere": "Bicchiere 2€",
