@@ -16,7 +16,12 @@ window.focaccePaniniData = [
     "Prezzo": "5€",
    }, 
    {
-    "Nome": "SQUACQUERONE E VERDURE GRIGLIATE",
+    "Nome": "BRIE E VERDURE GRIGLIATE",
+    "Descrizione":"",
+    "Prezzo": "5€",
+   },
+   {
+    "Nome": "CREMA DI ASPARAGI E MORTADELLA ARTIGIANALE",
     "Descrizione":"",
     "Prezzo": "5€",
    },

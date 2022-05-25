@@ -9,8 +9,12 @@ window.cicchettiData = [
     "Prezzo": "2.5€",
   },
   {
-    "Nome": "TAGLIERE SALUME (FELINO, SPALLA COTTA, CRUDO, GOLA)",
+    "Nome": "TAGLIERE SALUME (FELINO, SPALLA COTTA, CRUDO, GOLA, MORTADELLA)",
     "Prezzo": "6€/100G",
+  },
+  { 
+    "Nome": "TRANCIO FOCACCIA BARESE VEGANA",
+    "Prezzo": "2€",
   },
   { 
     "Nome": "CROSTINO BURRATA E ACCIUGA",
