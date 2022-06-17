@@ -6,9 +6,9 @@ window.viniBottigliaData = [
     "Prezzo": "20€",
   },
   {
-    "Nome": "CREMANT D'ALSACE BRUT",
-    "Descrizione": "CHARLOTTE & ANTOINE KREYNWEISS - (FRANCIA)",
-    "Prezzo": "28€",
+    "Nome": "TRENTO D.O.C.",
+    "Descrizione": "100% CHARDONNAY - CANTINA MORI COLLI ZUGNA (TN)",
+    "Prezzo": "25€",
   },
   {
     "Nome": "LUGANA D.O.C.",

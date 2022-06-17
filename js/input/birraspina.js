@@ -19,9 +19,9 @@ window.birraSpinaData = [
     "Media": "Media 5€",
   }, 
   {
-    "Nome": "SINERGIA '21 DUBBEL 7,5%- TRAPPISTA ARTIGIANALE ITALIANA",
+    "Nome": "KEYTE - TRIPEL ARTIGIANALE BELGA 7,8%",
     "Descrizione": "",
-    "Piccola": "0,25L 4€",
-    "Media": "0,25L 4€",
+    "Piccola": "0,33L 4€",
+    "Media": "0,33L 4€",
   },
 ];

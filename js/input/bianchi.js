@@ -6,8 +6,8 @@ window.bianchiData = [
     "Prezzo": "2,5€",
   },
   {
-    "Nome": "CHARDONNAY ALTO ADIGE D.O.C.",
-    "Descrizione":"100% CHARDONNAY - CANTINA MERANO (BZ)",
+    "Nome": "FALANGHINA DEL SANNIO D.O.C.",
+    "Descrizione":"100% FALANGHINA - AIA DEI COLOMBI (BN)",
     "Prezzo": "3.5€",
   },
   {

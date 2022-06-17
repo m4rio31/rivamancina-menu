@@ -9,7 +9,7 @@ window.cicchettiData = [
     "Prezzo": "2.5€",
   },
   {
-    "Nome": "TAGLIERE SALUME (FELINO, SPALLA COTTA, CRUDO, GOLA, MORTADELLA)",
+    "Nome": "TAGLIERE SALUME (FELINO, SPALLA COTTA, CRUDO, MORTADELLA)",
     "Prezzo": "6€/100G",
   },
   { 

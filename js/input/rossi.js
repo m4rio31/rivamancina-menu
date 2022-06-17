@@ -10,10 +10,4 @@ window.rossiData = [
     "Descrizione": "15% CORVINA 40% CORVINONE 40% RONDINELLA 5% MOLINARA - SPADA (VR)",
     "Prezzo": "3.5€",
   },
-  
-  {
-    "Nome": "ZURRIA - ISOLA DEI NURAGHI I.G.T. ROSSO",
-    "Descrizione": "VITIGNI AUTOCTONI SARDI - TENUTA MASONE MANNU (OT)",
-    "Prezzo": "3,5€",
-  },
 ];

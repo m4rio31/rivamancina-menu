@@ -17,15 +17,11 @@ window.birraBottigliaData = [
     "Prezzo": "5€",
   },
   {
-    "Nome": "BIRRA ARTIGIANALE LA PAZ - PILS 0,44L",
-    "Prezzo": "4€",
-  },
-  {
-    "Nome": "BIRRA ARTIGIANALE BUTTIGA LIBERTA' - KOLSCH",
+    "Nome": "BIRRA LAGER, ROSSA, DOPPIO MALTO - BIRRIFICIO ARTIGIANALE NAPOLETANO",
     "Prezzo": "5€",
   },
   { 
-    "Nome": "BIRRA ARTIGIANALE MASOALTO - IPA/SESSION IPA/PILS/PORTER",
+    "Nome": "BIRRA ARTIGIANALE MASOALTO - IPA/SESSION IPA",
     "Prezzo": "5€",
   },
 ];
