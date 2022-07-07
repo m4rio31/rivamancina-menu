@@ -6,7 +6,7 @@ window.focaccePaniniData = [
     "Prezzo": "5€",
    },
    {
-    "Nome": "FRIARIELLI E PROVOLA AFFUMICATA",
+    "Nome": "CAPRESE (MOZZARELLA, POMODORO, OLIO E BASILICO)",
     "Descrizione":"",
     "Prezzo": "5€",
    },
@@ -17,6 +17,11 @@ window.focaccePaniniData = [
    }, 
    {
     "Nome": "BRIE E VERDURE GRIGLIATE",
+    "Descrizione":"",
+    "Prezzo": "5€",
+   },
+   {
+    "Nome": "BRESAOLA, RUCOLA E SCAGLIE DI PARMIGIANO",
     "Descrizione":"",
     "Prezzo": "5€",
    },

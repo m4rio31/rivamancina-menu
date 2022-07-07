@@ -6,8 +6,8 @@ window.bianchiData = [
     "Prezzo": "2,5€",
   },
   {
-    "Nome": "FALANGHINA DEL SANNIO D.O.C.",
-    "Descrizione":"100% FALANGHINA - AIA DEI COLOMBI (BN)",
+    "Nome": "VERDICCHIO CASTELLI DI JESI D.O.C.G.",
+    "Descrizione":"100% VERDICCHIO - BENFORTE (AN)",
     "Prezzo": "3.5€",
   },
   {
@@ -16,8 +16,8 @@ window.bianchiData = [
     "Prezzo": "3.5€",
   },
   {
-    "Nome": "BIANCO BIODINAMICO POSCA BIANCO",
-    "Descrizione":"UVE AUTOCTONE - ORSI VIGNETO SAN VITO (BO)",
+    "Nome": "PERLAGIOIA - RAVENNA BIANCO I.G.T.",
+    "Descrizione":"VITIGNO AUTOCTONO ROMAGNOLO - ANCARANI (RA)",
     "Prezzo": "4€",
   },
 ];

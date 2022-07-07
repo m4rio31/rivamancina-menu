@@ -26,11 +26,6 @@ window.viniBottigliaData = [
     "Prezzo": "20€",
   },
   {
-    "Nome": "CHEVERNY A.O.P.",
-    "Descrizione": "SAUVIGNON, FIE GRIS, CHARDONNAY - CLOS DU TUE-BOEUF (FRANCIA)",
-    "Prezzo": "28€",
-  },
-  {
     "Nome": "CANNONAU DI SARDEGNA D.O.C.",
     "Descrizione": "100% CANNONAU - TENUTA ASINARA (SS)",
     "Prezzo": "20€",

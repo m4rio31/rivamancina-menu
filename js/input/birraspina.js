@@ -19,9 +19,9 @@ window.birraSpinaData = [
     "Media": "Media 5€",
   }, 
   {
-    "Nome": "KEYTE - TRIPEL ARTIGIANALE BELGA 7,8%",
+    "Nome": "STEENBRUGGE - BLANCHE",
     "Descrizione": "",
-    "Piccola": "0,33L 4€",
-    "Media": "0,33L 4€",
+    "Piccola": "Piccola 2,5€",
+    "Media": "Media 5€",
   },
 ];
