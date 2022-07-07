@@ -6,6 +6,11 @@ window.viniBottigliaData = [
     "Prezzo": "20€",
   },
   {
+    "Nome": "INDIGENO - RAVENNA TREBBIANO FRIZZANTE RIFERMENTATO",
+    "Descrizione": "100% TREBBIANO ROMAGNOLO - ANCARANI (RA)",
+    "Prezzo": "20€",
+  },
+  {
     "Nome": "TRENTO D.O.C.",
     "Descrizione": "100% CHARDONNAY - CANTINA MORI COLLI ZUGNA (TN)",
     "Prezzo": "25€",
