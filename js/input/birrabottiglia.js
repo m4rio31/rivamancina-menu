@@ -5,10 +5,6 @@ window.birraBottigliaData = [
     "Prezzo": "2.5€",
   },
   {
-    "Nome": "THERESIANER WIT 0,33L",
-    "Prezzo": "3,5€",
-  },
-  {
     "Nome": "WEIZEN ORFRUMER 0,5L",
     "Prezzo": "4€",
   },
@@ -17,11 +13,11 @@ window.birraBottigliaData = [
     "Prezzo": "5€",
   },
   {
-    "Nome": "BIRRA LAGER, ROSSA, DOPPIO MALTO - BIRRIFICIO ARTIGIANALE NAPOLETANO",
+    "Nome": "BIRRA LAGER/ROSSA/DOPPIO MALTO - BIRRIFICIO ARTIGIANALE NAPOLETANO",
     "Prezzo": "5€",
   },
   { 
-    "Nome": "BIRRA ARTIGIANALE MASOALTO - IPA/SESSION IPA",
+    "Nome": "BIRRA IPA ARTIGIANALE MASOALTO - IPA",
     "Prezzo": "5€",
   },
 ];
