@@ -16,8 +16,8 @@ window.bianchiData = [
     "Prezzo": "3.5€",
   },
   {
-    "Nome": "PERLAGIOIA - RAVENNA BIANCO I.G.T.",
-    "Descrizione":"VITIGNO AUTOCTONO ROMAGNOLO - ANCARANI (RA)",
+    "Nome": "CATARRATTO - I.G.P. TERRE SICILIANE",
+    "Descrizione":"100% CATARRATTO - AZIENDA AGRICOLA CRIANTE (TP)",
     "Prezzo": "4€",
   },
 ];
