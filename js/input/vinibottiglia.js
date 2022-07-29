@@ -19,10 +19,15 @@ window.viniBottigliaData = [
     "Nome": "LUGANA D.O.C.",
     "Descrizione": "100% TREBBIANO DI LUGANA - LE MORETTE (VR)",
     "Prezzo": "18€",
+  }, 
+  {
+    "Nome": "BIANCO NATURALE BIODINAMICO",
+    "Descrizione": "VARIE VARIETA' UVE BIANCHE - ORSI VIGNETO SAN VITO (BO)",
+    "Prezzo": "20€",
   },
   {
     "Nome": "CUSTOZA SUPERIORE D.O.C.",
-    "Descrizione": "50% CORTESE, 50% GARGANEGA - MENEGOTTI (VR)",
+    "Descrizione": "50% CORTESE, 50% GARGANEGA - CANTINA MENEGOTTI (VR)",
     "Prezzo": "20€",
   },
   {
@@ -36,13 +41,18 @@ window.viniBottigliaData = [
     "Prezzo": "20€",
   }, 
   {
-    "Nome": "CHIANTI COLLI ARETINI D.O.C.G.",
-    "Descrizione": "90% SANGIOVESE, 10% COLORINO-CANAIOLO-CILIEGIOLO - PATERNA (AR)",
-    "Prezzo": "20€",
+    "Nome": "NERELLO MASCALESE I.G.T. 2019",
+    "Descrizione": "85% NERELLO MASCALESE, 15% VARIETA' LOCALI - EDUARDO TORRES (CT)",
+    "Prezzo": "25€",
   },
   {
     "Nome": "NEBBIOLO D.O.C.",
     "Descrizione": "100% NEBBIOLO - FAMIGLIA MARRONE (CN)",
     "Prezzo": "22€",
+  },
+  {
+    "Nome": "AMARONE CLASSICO D.O.C.G. 2017",
+    "Descrizione": "45% CORVINA VERONESE, 30% CORVINONE, 20% RONDINELLA, 5% MOLINARA - CANTINA SPADA (VR)",
+    "Prezzo": "35€",
   },
 ];
