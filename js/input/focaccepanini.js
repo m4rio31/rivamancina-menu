@@ -21,12 +21,7 @@ window.focaccePaniniData = [
     "Prezzo": "5€",
    },
    {
-    "Nome": "BRESAOLA, RUCOLA E SCAGLIE DI PARMIGIANO",
-    "Descrizione":"",
-    "Prezzo": "5€",
-   },
-   {
-    "Nome": "CREMA DI ASPARAGI E MORTADELLA ARTIGIANALE",
+    "Nome": "CREMA DI ASPARAGI E MORTADELLA",
     "Descrizione":"",
     "Prezzo": "5€",
    },

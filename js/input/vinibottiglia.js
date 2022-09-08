@@ -46,8 +46,8 @@ window.viniBottigliaData = [
     "Prezzo": "25€",
   },
   {
-    "Nome": "NEBBIOLO D.O.C.",
-    "Descrizione": "100% NEBBIOLO - FAMIGLIA MARRONE (CN)",
+    "Nome": "ROSSO DI VALTELLINA D.O.C.",
+    "Descrizione": "VIGNE AUTOCTONE - DIRUPI (SO)",
     "Prezzo": "22€",
   },
   {

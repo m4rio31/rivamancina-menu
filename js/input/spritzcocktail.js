@@ -3,7 +3,7 @@ window.spritzCocktailData = [
   {
     "Nome": "SPRITZ BIANCO",
     "Descrizione": "",
-    "Prezzo": "2.5€",
+    "Prezzo": "3€",
   },
   {
     "Nome": "SPRITZ",

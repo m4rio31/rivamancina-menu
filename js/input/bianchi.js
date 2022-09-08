@@ -6,8 +6,8 @@ window.bianchiData = [
     "Prezzo": "2,5€",
   },
   {
-    "Nome": "VERDICCHIO CASTELLI DI JESI D.O.C.G.",
-    "Descrizione":"100% VERDICCHIO - BENFORTE (AN)",
+    "Nome": "VERDICCHIO DI MATELICA D.O.C.",
+    "Descrizione":"100% VERDICCHIO - BORGO PAGLIANETTO (MC)",
     "Prezzo": "3.5€",
   },
   {
