@@ -48,7 +48,7 @@ window.viniBottigliaData = [
   {
     "Nome": "ROSSO DI VALTELLINA D.O.C.",
     "Descrizione": "VIGNE AUTOCTONE - DIRUPI (SO)",
-    "Prezzo": "22€",
+    "Prezzo": "25€",
   },
   {
     "Nome": "AMARONE CLASSICO D.O.C.G. 2017",
