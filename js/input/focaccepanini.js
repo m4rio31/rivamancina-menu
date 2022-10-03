@@ -6,22 +6,22 @@ window.focaccePaniniData = [
     "Prezzo": "5€",
    },
    {
-    "Nome": "CAPRESE (MOZZARELLA, POMODORO, OLIO E BASILICO)",
-    "Descrizione":"",
-    "Prezzo": "5€",
-   },
-   {
     "Nome": "SPALLA COTTA E CREMA DI CARCIOFI",
     "Descrizione":"",
     "Prezzo": "5€",
    }, 
    {
-    "Nome": "BRIE E VERDURE GRIGLIATE",
+    "Nome": "FRIARIELLI E PROVOLA AFFUMICATA",
     "Descrizione":"",
     "Prezzo": "5€",
    },
    {
-    "Nome": "CREMA DI ASPARAGI E MORTADELLA",
+    "Nome": "CREMA DI RADICCHIO, PROVOLA E SPECK",
+    "Descrizione":"",
+    "Prezzo": "5€",
+   },   
+   {
+    "Nome": "CREMA DI PORCINI E TOMINO",
     "Descrizione":"",
     "Prezzo": "5€",
    },

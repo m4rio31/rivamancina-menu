@@ -46,11 +46,6 @@ window.viniBottigliaData = [
     "Prezzo": "25€",
   },
   {
-    "Nome": "ROSSO DI VALTELLINA D.O.C.",
-    "Descrizione": "VIGNE AUTOCTONE - DIRUPI (SO)",
-    "Prezzo": "25€",
-  },
-  {
     "Nome": "AMARONE CLASSICO D.O.C.G. 2017",
     "Descrizione": "45% CORVINA VERONESE, 30% CORVINONE, 20% RONDINELLA, 5% MOLINARA - CANTINA SPADA (VR)",
     "Prezzo": "35€",
