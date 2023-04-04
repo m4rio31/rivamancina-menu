@@ -38,7 +38,7 @@ window.viniBottigliaData = [
   {
     "Nome": "CHIANTI COLLI ARETINI BIO D.O.C.G.",
     "Descrizione": "90% SANGIOVESE, 5% CANAIPOLO, 5% VARIETA' LOCALI - PATERNA (AR)",
-    "Prezzo": "25€",
+    "Prezzo": "22€",
   },
   {
     "Nome": "AMARONE CLASSICO D.O.C.G. 2017",
