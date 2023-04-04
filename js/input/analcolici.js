@@ -1,11 +1,16 @@
 window.analcoliciData = [
   {
     "Nome": "BIBITE BIO PLOSE",
-    "Descrizione": "CHINOTTO/CEDRATA/SPUMA BIANCA/LIMONATA/ARANCIATA AMARA/POMPELMO ROSA",
+    "Descrizione": "CHINOTTO/CEDRATA/LIMONATA/ARANCIATA AMARA/POMPELMO ROSA/TONICA",
     "Prezzo": "3€",
   },
   {
     "Nome": "COCA COLA 0,33L",
+    "Descrizione": "",
+    "Prezzo": "2,5€",
+  }, 
+  {
+    "Nome": "VIVA MATE 0,33L",
     "Descrizione": "",
     "Prezzo": "2,5€",
   }, 

@@ -11,8 +11,8 @@ window.rossiData = [
     "Prezzo": "3.5€",
   },   
   {
-    "Nome": "CHIANTI COLLI ARETINI D.O.C.G.",
-    "Descrizione":"90% SANGIOVESE, 10% COLORINO, CANAIOLO E CILIEGIOLO - PATERNA (AR)",
+    "Nome": "RENOSU ROSSO - VINO NATURALE SARDO",
+    "Descrizione":"VITIGNI AUTOCTONI A PERCENTUALE VARIABILE - TENUTE DETTORI (SS)",
     "Prezzo": "4€",
   },
 ];

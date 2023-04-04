@@ -7,7 +7,7 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   }, 
   {
-    "Nome": "RIVAMANCIPA- SESSION IPA ARTIGIANALE",
+    "Nome": "MIA ZIA (BUTTIGA)- SESSION IPA ARTIGIANALE",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",
@@ -18,10 +18,4 @@ window.birraSpinaData = [
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",
   }, 
-  {
-    "Nome": "STEENBRUGGE - BLANCHE",
-    "Descrizione": "",
-    "Piccola": "Piccola 2,5€",
-    "Media": "Media 5€",
-  },
 ];

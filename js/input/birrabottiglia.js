@@ -9,15 +9,15 @@ window.birraBottigliaData = [
     "Prezzo": "4€",
   },
   {
-    "Nome": "BIRRA NO GLUTINE ARTIGIANALE - LAGER 0,33L",
+    "Nome": "KELLERBEER - PYRASER 0,5L",
     "Prezzo": "5€",
   },
   {
-    "Nome": "BIRRA LAGER/ROSSA/DOPPIO MALTO - BIRRIFICIO ARTIGIANALE NAPOLETANO",
+    "Nome": "BIRRA D'INVERNO - THERESIANER 0,5L",
     "Prezzo": "5€",
   },
-  { 
-    "Nome": "BIRRA IPA ARTIGIANALE MASOALTO - IPA",
+  {
+    "Nome": "BIRRA ATIGIANALE 0,33L A ROTAZIONE NEL FRIGO (IPA, ROSSA, NO GLUTINE, STOUT ECC..)",
     "Prezzo": "5€",
   },
 ];

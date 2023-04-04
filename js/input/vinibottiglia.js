@@ -1,19 +1,14 @@
 
 window.viniBottigliaData = [
   {
-    "Nome": "BIANCO FRIZZANTE RIFERMENTATO COL TAMARIE",
-    "Descrizione": "GLERA E ALTRI - VIGNA SAN LORENZO (TV)",
-    "Prezzo": "20€",
+    "Nome": "VALDOBBIADENE FRIZZANTE RIFERMENTATO SPONTANEAMENTE 2021",
+    "Descrizione": "GLERA E ALTRI - CA' DEI ZAGO (TV)",
+    "Prezzo": "24€",
   },
   {
     "Nome": "INDIGENO - RAVENNA TREBBIANO FRIZZANTE RIFERMENTATO",
     "Descrizione": "100% TREBBIANO ROMAGNOLO - ANCARANI (RA)",
     "Prezzo": "20€",
-  },
-  {
-    "Nome": "TRENTO D.O.C.",
-    "Descrizione": "100% CHARDONNAY - CANTINA MORI COLLI ZUGNA (TN)",
-    "Prezzo": "25€",
   },
   {
     "Nome": "LUGANA D.O.C.",
@@ -41,8 +36,8 @@ window.viniBottigliaData = [
     "Prezzo": "20€",
   }, 
   {
-    "Nome": "NERELLO MASCALESE I.G.T. 2019",
-    "Descrizione": "85% NERELLO MASCALESE, 15% VARIETA' LOCALI - EDUARDO TORRES (CT)",
+    "Nome": "CHIANTI COLLI ARETINI BIO D.O.C.G.",
+    "Descrizione": "90% SANGIOVESE, 5% CANAIPOLO, 5% VARIETA' LOCALI - PATERNA (AR)",
     "Prezzo": "25€",
   },
   {

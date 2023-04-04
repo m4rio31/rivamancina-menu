@@ -7,13 +7,13 @@ window.spritzCocktailData = [
   },
   {
     "Nome": "SPRITZ",
-    "Descrizione": "APEROL/CAMPARI/SELECT/CYNAR",
+    "Descrizione": "APEROL/BITTER/SELECT/CYNAR",
     "Prezzo": "3,5€",
   },
   {
     "Nome": "NEGRONI",
     "Descrizione": "",
-    "Prezzo": "5€",
+    "Prezzo": "6€",
   },
   {
     "Nome": "SBAGLIAT0",
@@ -32,7 +32,7 @@ window.spritzCocktailData = [
   },
   {
     "Nome": "GIN TONIC",
-    "Descrizione": "GORDON/TANQUERAY/HENDRIK'S/MARE/CUBICAL ECC.",
+    "Descrizione": "GORDON/TANQUERAY/HENDRIK'S/MARE/BULLDOG ECC.",
     "Prezzo": "da 5€ a 8€",
   },
   {
