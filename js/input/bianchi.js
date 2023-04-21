@@ -6,13 +6,19 @@ window.bianchiData = [
     "Prezzo": "2,5€",
   },
   {
-    "Nome": "GRILLO SICILIA I.G.P.",
-    "Descrizione":"100% GRILLO - CANTINE FINA (TP)",
-    "Prezzo": "3.5€",
-  },  
-  {
     "Nome": "CHARDONNAY I.G.P. ALTO MINCIO",
     "Descrizione":"100% CHARDONNAY - CANTINA BERTAGNA (MN)",
     "Prezzo": "3,5€",
   },
+  {
+    "Nome": "CATARRATTO I.G.P. TERRE SICILIANE",
+    "Descrizione":"100% CATARRATTO - CRIANTE (TP)",
+    "Prezzo": "3.5€",
+  },  
+  {
+    "Nome": "RENOSU BIANCO - VINO NATURALE SARDO",
+    "Descrizione":"VITIGNI AUTOCTONI A PERCENTUALE VARIABILE - TENUTE DETTORI (SS)",
+    "Prezzo": "3.5€",
+  },  
+
 ];

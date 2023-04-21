@@ -7,7 +7,7 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   }, 
   {
-    "Nome": "MIA ZIA (BUTTIGA)- SESSION IPA ARTIGIANALE",
+    "Nome": "LUPOR - KELLER",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",

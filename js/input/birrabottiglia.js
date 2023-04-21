@@ -1,8 +1,16 @@
 
 window.birraBottigliaData = [
   {
-    "Nome": "RAFFO 0.33L",
-    "Prezzo": "2.5€",
+    "Nome": "MORETTI FILTRATA A FREDDO 0,3L",
+    "Prezzo": "3€",
+  },
+  {
+    "Nome": "ICNHUSA NON FILTRATA 0,33L",
+    "Prezzo": "3,5€",
+  },
+  {
+    "Nome": "LATTINA BIRRA LA PAZ PILS 0,44L",
+    "Prezzo": "4,5€",
   },
   {
     "Nome": "WEIZEN ORFRUMER 0,5L",

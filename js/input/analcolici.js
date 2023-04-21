@@ -1,7 +1,7 @@
 window.analcoliciData = [
   {
     "Nome": "BIBITE BIO PLOSE",
-    "Descrizione": "CHINOTTO/CEDRATA/LIMONATA/ARANCIATA AMARA/POMPELMO ROSA/TONICA",
+    "Descrizione": "CHINOTTO/CEDRATA/LIMONATA/ARANCIATA AMARA/POMPELMO ROSA/ACQUA TONICA",
     "Prezzo": "3€",
   },
   {

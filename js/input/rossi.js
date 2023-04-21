@@ -6,8 +6,8 @@ window.rossiData = [
     "Prezzo": "2.5€",
   },
   {
-    "Nome": "VALPOLICELLA RIPASSO D.O.C.",
-    "Descrizione": "15% CORVINA 40% CORVINONE 40% RONDINELLA 5% MOLINARA - SPADA (VR)",
+    "Nome": "MERLOT I.G.P. ALTO MINCIO",
+    "Descrizione": "100% MERLOT -AZIENDA AGRICOLA BERTAGNA (MN)",
     "Prezzo": "3.5€",
   },   
   {
