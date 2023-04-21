@@ -13,12 +13,12 @@ window.bianchiData = [
   {
     "Nome": "CATARRATTO I.G.P. TERRE SICILIANE",
     "Descrizione":"100% CATARRATTO - CRIANTE (TP)",
-    "Prezzo": "3.5€",
+    "Prezzo": "4€",
   },  
   {
     "Nome": "RENOSU BIANCO - VINO NATURALE SARDO",
     "Descrizione":"VITIGNI AUTOCTONI A PERCENTUALE VARIABILE - TENUTE DETTORI (SS)",
-    "Prezzo": "3.5€",
+    "Prezzo": "4€",
   },  
 
 ];
