@@ -1,8 +1,8 @@
 
 window.birraBottigliaData = [
   {
-    "Nome": "MORETTI FILTRATA A FREDDO 0,3L",
-    "Prezzo": "3€",
+    "Nome": "FORST 0,3L",
+    "Prezzo": "2,5€",
   },
   {
     "Nome": "ICNHUSA NON FILTRATA 0,33L",

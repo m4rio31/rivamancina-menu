@@ -10,13 +10,13 @@ window.bollicineData = [
     "Prezzo": "4€",
   },
   {
-    "Nome": " 3B BLANC DE BLANCS BRUT NATURE (BRUT)",
-    "Descrizione": "70% BICAL, 20% MARIA GOMES, 10 SERCIAL - FILIPA PATO (PORTOGALLO)",
+    "Nome": "METODO CLASSICO ROSE' BRUT",
+    "Descrizione": "100% MOLINARA - CA' RUGATE (VR)",
     "Prezzo": "5€",
   },
   {
-    "Nome": "FRANCIACORTA D.O.C.G. (BRUT)",
-    "Descrizione": "80% CHARDONNAY 20% PINOT NERO - VIGNA DORATA (BS)",
+    "Nome": "FRANCIACORTA D.O.C.G. (SATEN)",
+    "Descrizione": "100% CHARDONNAY - VIGNA DORATA (BS)",
     "Prezzo": "6€"
   },
 ];

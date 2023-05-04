@@ -11,8 +11,8 @@ window.rossiData = [
     "Prezzo": "3.5€",
   },   
   {
-    "Nome": "RENOSU ROSSO - VINO NATURALE SARDO",
-    "Descrizione":"VITIGNI AUTOCTONI A PERCENTUALE VARIABILE - TENUTE DETTORI (SS)",
-    "Prezzo": "4€",
+    "Nome": "VALPOLICELLA RIPASSO D.O.C.RENOSU ROSSO - VINO NATURALE SARDO",
+    "Descrizione":"40% CORVINONE, 40% RONDINELLA, 15% CORVINA VERONESE, 5% MOLINARA - CANTINA SPADA (VR)",
+    "Prezzo": "3,5€",
   },
 ];
