@@ -25,7 +25,7 @@ window.birraBottigliaData = [
     "Prezzo": "5€",
   },
   {
-    "Nome": "BIRRA ATIGIANALE 0,33L A ROTAZIONE NEL FRIGO (IPA, ROSSA, NO GLUTINE, STOUT ECC..)",
+    "Nome": "BIRRA ATIGIANALE 0,33L A ROTAZIONE NEL FRIGO (ROSSA, NO GLUTINE, PORTER ECC..)",
     "Prezzo": "5€",
   },
 ];

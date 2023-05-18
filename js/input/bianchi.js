@@ -11,8 +11,8 @@ window.bianchiData = [
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "CATARRATTO I.G.P. TERRE SICILIANE",
-    "Descrizione":"100% CATARRATTO - CRIANTE (TP)",
+    "Nome": "CONCRETE BIANCO - VINO NATURALE ABRUZZESE",
+    "Descrizione":"PECORINO, CHARDONNAY E TREBBIANO D'ABRUZZO - DE FERMO (PE)",
     "Prezzo": "4€",
   },  
   {

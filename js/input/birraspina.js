@@ -7,7 +7,7 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   }, 
   {
-    "Nome": "LUPOR - KELLER",
+    "Nome": "BIRRIFICIO DEI CASTELLI - BLANCHE",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
     "Media": "Media 5€",

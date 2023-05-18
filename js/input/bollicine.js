@@ -1,6 +1,6 @@
 window.bollicineData = [
   {
-    "Nome": "PROSECCO D.O.C.G. (EXTRA DRY)",
+    "Nome": "PROSECCO D.O.C.G. (BRUT)",
     "Descrizione": "100% GLERA - MASOTTINA (TV)",
     "Prezzo": "3,5€",
   },
