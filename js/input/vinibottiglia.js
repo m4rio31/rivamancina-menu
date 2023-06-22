@@ -7,12 +7,12 @@ window.viniBottigliaData = [
   },
   {    "Nome": "NIENTE PANICO - CATARRATTO RIFERMENTATO NATURALE",
     "Descrizione": "100% CATARRATTO - CRIANTE (TP)",
-    "Prezzo": "20€",
+    "Prezzo": "23€",
   },
   {
     "Nome": "LUGANA D.O.C.",
     "Descrizione": "100% TREBBIANO DI LUGANA - LE MORETTE (VR)",
-    "Prezzo": "18€",
+    "Prezzo": "20€",
   }, 
   {
     "Nome": "BIANCO NATURALE BIODINAMICO",
