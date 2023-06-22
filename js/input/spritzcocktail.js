@@ -46,6 +46,11 @@ window.spritzCocktailData = [
     "Prezzo": "6€",
   },
   {
+    "Nome": "PALOMA",
+    "Descrizione": "",
+    "Prezzo": "5€",
+  },
+  {
     "Nome": "CUBA LIBRE",
     "Descrizione": "",
     "Prezzo": "5€",

@@ -5,9 +5,8 @@ window.viniBottigliaData = [
     "Descrizione": "GLERA E ALTRI - CA' DEI ZAGO (TV)",
     "Prezzo": "24€",
   },
-  {
-    "Nome": "INDIGENO - RAVENNA TREBBIANO FRIZZANTE RIFERMENTATO",
-    "Descrizione": "100% TREBBIANO ROMAGNOLO - ANCARANI (RA)",
+  {    "Nome": "NIENTE PANICO - CATARRATTO RIFERMENTATO NATURALE",
+    "Descrizione": "100% CATARRATTO - CRIANTE (TP)",
     "Prezzo": "20€",
   },
   {

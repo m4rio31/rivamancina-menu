@@ -7,6 +7,12 @@ window.birraSpinaData = [
     "Media": "Media 4€",
   }, 
   {
+    "Nome": "RIVAMANCIPA - SESSION IPA",
+    "Descrizione": "",
+    "Piccola": "Piccola 2.5€",
+    "Media": "Media 5€",
+  },
+  {
     "Nome": "BIRRIFICIO DEI CASTELLI - BLANCHE",
     "Descrizione": "",
     "Piccola": "Piccola 2.5€",
