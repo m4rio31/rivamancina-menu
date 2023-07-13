@@ -10,12 +10,7 @@ window.bollicineData = [
     "Prezzo": "4€",
   },
   {
-    "Nome": "METODO CLASSICO ROSE' BRUT",
-    "Descrizione": "100% MOLINARA - CA' RUGATE (VR)",
-    "Prezzo": "5€",
-  },
-  {
-    "Nome": "FRANCIACORTA D.O.C.G. (SATEN)",
+    "Nome": "FRANCIACORTA D.O.C.G. (BRUT)",
     "Descrizione": "100% CHARDONNAY - VIGNA DORATA (BS)",
     "Prezzo": "6€"
   },

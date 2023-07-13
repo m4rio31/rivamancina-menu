@@ -11,8 +11,8 @@ window.bianchiData = [
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "CONCRETE BIANCO - VINO NATURALE ABRUZZESE",
-    "Descrizione":"PECORINO, CHARDONNAY E TREBBIANO D'ABRUZZO - DE FERMO (PE)",
+    "Nome": "TERRE SICILIANE I.G.P.",
+    "Descrizione":"100% CATARRATTO - CRIANTE (TP)",
     "Prezzo": "4€",
   },  
   {
