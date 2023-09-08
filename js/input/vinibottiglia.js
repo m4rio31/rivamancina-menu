@@ -3,7 +3,7 @@ window.viniBottigliaData = [
   {
     "Nome": "VALDOBBIADENE FRIZZANTE RIFERMENTATO SPONTANEAMENTE 2021",
     "Descrizione": "GLERA E ALTRI - CA' DEI ZAGO (TV)",
-    "Prezzo": "24€",
+    "Prezzo": "25€",
   },
   {    "Nome": "NIENTE PANICO - CATARRATTO RIFERMENTATO NATURALE",
     "Descrizione": "100% CATARRATTO - CRIANTE (TP)",

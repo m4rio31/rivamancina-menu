@@ -10,8 +10,8 @@ window.bollicineData = [
     "Prezzo": "4€",
   },
   {
-    "Nome": "FRANCIACORTA D.O.C.G. (BRUT)",
-    "Descrizione": "100% CHARDONNAY - VIGNA DORATA (BS)",
-    "Prezzo": "6€"
+    "Nome": "TRENTO D.O.C. (BRUT)",
+    "Descrizione": "100% CHARDONNAY - CANTINA MORI COLLI ZUGNA (TN)",
+    "Prezzo": "5€"
   },
 ];

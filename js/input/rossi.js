@@ -1,8 +1,8 @@
 
 window.rossiData = [
   {
-    "Nome": "VALPOLICELLA CLASSICO D.O.C.",
-    "Descrizione": "40% CORVINA VERONESE, 45% RONDINELLA, 15% MOLINARA - CANTINA SPADA (VR)",
+    "Nome": "MONTEPULCIANO D'ABRUZZO D.O.C.",
+    "Descrizione": "100% MONTEPULCIANO - VILLA DIANA (CH)",
     "Prezzo": "3€",
   },
   {

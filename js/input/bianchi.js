@@ -11,13 +11,13 @@ window.bianchiData = [
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "TERRE SICILIANE I.G.P.",
-    "Descrizione":"100% CATARRATTO - CRIANTE (TP)",
+    "Nome": "GRECHETTO LAZIO I.G.T.",
+    "Descrizione":"100% GRECHETTO - CASALE CERTOSA (RM)",
     "Prezzo": "4€",
   },  
   {
-    "Nome": "RENOSU BIANCO - VINO NATURALE SARDO",
-    "Descrizione":"VITIGNI AUTOCTONI A PERCENTUALE VARIABILE - TENUTE DETTORI (SS)",
+    "Nome": "RAVENNA BIANCO I.G.T.",
+    "Descrizione":"100% ALBANA - ANCARANI (RA)",
     "Prezzo": "4€",
   },  
 
