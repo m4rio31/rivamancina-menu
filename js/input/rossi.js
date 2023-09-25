@@ -6,7 +6,7 @@ window.rossiData = [
     "Prezzo": "3€",
   },
   {
-    "Nome": "VALPOLICELLA RIPASSO D.O.C.RENOSU ROSSO - VINO NATURALE SARDO",
+    "Nome": "VALPOLICELLA RIPASSO D.O.C.",
     "Descrizione":"40% CORVINONE, 40% RONDINELLA, 15% CORVINA VERONESE, 5% MOLINARA - CANTINA SPADA (VR)",
     "Prezzo": "3,5€",
   },

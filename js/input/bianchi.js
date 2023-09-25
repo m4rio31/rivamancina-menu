@@ -11,13 +11,13 @@ window.bianchiData = [
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "GRECHETTO LAZIO I.G.T.",
-    "Descrizione":"100% GRECHETTO - CASALE CERTOSA (RM)",
+    "Nome": "TREBBIANO LAZIO I.G.T.",
+    "Descrizione":"100% TREBBIANO - CASALE CERTOSA (RM)",
     "Prezzo": "4€",
   },  
   {
-    "Nome": "RAVENNA BIANCO I.G.T.",
-    "Descrizione":"100% ALBANA - ANCARANI (RA)",
+    "Nome": "POSCA BIANCA - BIANCO NATURALE BOLOGNESE",
+    "Descrizione":"VITIGNI AUTOCTONI - ORSI VIGNETO SAN VITO (BO)",
     "Prezzo": "4€",
   },  
 
