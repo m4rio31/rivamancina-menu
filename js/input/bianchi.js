@@ -14,5 +14,5 @@ window.bianchiData = [
     "Nome": "BIANCO NATURALE PUGLIA",
     "Descrizione":"BLEND MOSCATO REALE, PAMPANUTO, BOMBINO, CHARDONNAY - MORASINSI (BT)",
     "Prezzo": "4€",
-
+  },
 ];
