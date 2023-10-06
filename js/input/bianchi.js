@@ -11,14 +11,8 @@ window.bianchiData = [
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "TREBBIANO LAZIO I.G.T.",
-    "Descrizione":"100% TREBBIANO - CASALE CERTOSA (RM)",
+    "Nome": "BIANCO NATURALE PUGLIA",
+    "Descrizione":"BLEND MOSCATO REALE, PAMPANUTO, BOMBINO, CHARDONNAY - MORASINSI (BT)",
     "Prezzo": "4€",
-  },  
-  {
-    "Nome": "POSCA BIANCA - BIANCO NATURALE BOLOGNESE",
-    "Descrizione":"VITIGNI AUTOCTONI - ORSI VIGNETO SAN VITO (BO)",
-    "Prezzo": "4€",
-  },  
 
 ];
