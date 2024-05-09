@@ -5,15 +5,15 @@ window.birraBottigliaData = [
     "Prezzo": "2,5€",
   },
   {
-    "Nome": "ICHNUSA NON FILTRATA 0,33L",
+    "Nome": "FORST KELLER NON FILTRATA 0,33L",
     "Prezzo": "3,5€",
   },
   {
-    "Nome": "WEIZEN ORFRUMER 0,5L",
+    "Nome": "ALHAMBRA ROSSA 0,33L",
     "Prezzo": "4€",
   },
   {
-    "Nome": "BIRRA ATIGIANALE 0,33L A ROTAZIONE NEL FRIGO (ROSSA, NO GLUTINE, PORTER ECC..)",
+    "Nome": "BIRRA ATIGIANALE 0,33L A ROTAZIONE NEL FRIGO (PILS, NO GLUTINE, SESSION IPA ECC..)",
     "Prezzo": "5€",
   },
 ];

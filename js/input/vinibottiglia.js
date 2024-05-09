@@ -1,47 +1,27 @@
 
 window.viniBottigliaData = [
   {
-    "Nome": "VALDOBBIADENE FRIZZANTE RIFERMENTATO SPONTANEAMENTE 2021",
-    "Descrizione": "GLERA E ALTRI - CA' DEI ZAGO (TV)",
-    "Prezzo": "25€",
+    "Nome": "VINO FRIZZANTE RIFERMENTATO NATURALE - INFERNOT",
+    "Descrizione": "90% CORTESE E 10% PINOT BIANCO - CASCINA BOCCACCIO (AL)",
+    "Prezzo": "24€",
   },
-  {    "Nome": "NIENTE PANICO - CATARRATTO RIFERMENTATO NATURALE",
-    "Descrizione": "100% CATARRATTO - CRIANTE (TP)",
-    "Prezzo": "23€",
+  { "Nome": "CREMANT D'ALSACE A.0.C.",
+    "Descrizione": "PINOT BLANC E AUXERROIS - LUNE A BOIRE BULLE (FRANCIA)",
+    "Prezzo": "28€",
   },
   {
-    "Nome": "LUGANA D.O.C.",
-    "Descrizione": "100% TREBBIANO DI LUGANA - LE MORETTE (VR)",
-    "Prezzo": "20€",
+    "Nome": "FRIULANO D.O.C.",
+    "Descrizione": "100% FRIULANO - LIVON (UD)",
+    "Prezzo": "23€",
   }, 
   {
-    "Nome": "BIANCO NATURALE BIODINAMICO",
-    "Descrizione": "VARIE VARIETA' UVE BIANCHE - ORSI VIGNETO SAN VITO (BO)",
-    "Prezzo": "20€",
-  },
-  {
-    "Nome": "CUSTOZA SUPERIORE D.O.C.",
-    "Descrizione": "50% CORTESE, 50% GARGANEGA - CANTINA MENEGOTTI (VR)",
-    "Prezzo": "20€",
+    "Nome": "TXAKOLI BASCO",
+    "Descrizione": "100% HONDARRABI ZURI - HIRUTZA BODEGA (EUSKADI)",
+    "Prezzo": "24€",
   },
   {
     "Nome": "VERMENTINO COLLI DI LUNI D.O.C.",
     "Descrizione": "100% VERMENTINO - LA PIETRA DEL FOCOLARE (SP)",
-    "Prezzo": "20€",
-  },
-  {
-    "Nome": "CANNONAU DI SARDEGNA D.O.C.",
-    "Descrizione": "100% CANNONAU - TENUTA ASINARA (SS)",
-    "Prezzo": "20€",
-  }, 
-  {
-    "Nome": "CHIANTI COLLI ARETINI BIO D.O.C.G.",
-    "Descrizione": "90% SANGIOVESE, 5% CANAIPOLO, 5% VARIETA' LOCALI - PATERNA (AR)",
-    "Prezzo": "22€",
-  },
-  {
-    "Nome": "AMARONE CLASSICO D.O.C.G. 2017",
-    "Descrizione": "45% CORVINA VERONESE, 30% CORVINONE, 20% RONDINELLA, 5% MOLINARA - CANTINA SPADA (VR)",
-    "Prezzo": "35€",
+    "Prezzo": "23€",
   },
 ];

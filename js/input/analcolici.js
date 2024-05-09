@@ -16,7 +16,7 @@ window.analcoliciData = [
   }, 
   {
     "Nome": "SUCCHI BIO PLOSE",
-    "Descrizione": "ANANAS/ARANCIA/POMPELMO/PESCA/PERA/MELOGRANO",
-    "Prezzo": "2,5€",
+    "Descrizione": "ANANAS/ARANCIA/ALBICOCCA/PERA",
+    "Prezzo": "3€",
   },
 ];

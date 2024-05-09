@@ -8,6 +8,11 @@ window.rossiData = [
   {
     "Nome": "VALPOLICELLA RIPASSO D.O.C.",
     "Descrizione":"40% CORVINONE, 40% RONDINELLA, 15% CORVINA VERONESE, 5% MOLINARA - CANTINA SPADA (VR)",
-    "Prezzo": "3,5€",
+    "Prezzo": "4€",
+  },
+  {
+    "Nome": "MERLOT NATURALE LAZIALE",
+    "Descrizione":"100% MERLOT - CASALE CERTOSA (ROMA)",
+    "Prezzo": "4€",
   },
 ];

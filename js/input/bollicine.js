@@ -7,11 +7,11 @@ window.bollicineData = [
   {
     "Nome": "METODO CLASSICO (EXTRA BRUT)",
     "Descrizione": "100% GARGANEGA - MENEGOTTI (VR)",
-    "Prezzo": "4€",
+    "Prezzo": "4,5€",
   },
   {
     "Nome": "TRENTO D.O.C. (BRUT)",
     "Descrizione": "100% CHARDONNAY - CANTINA MORI COLLI ZUGNA (TN)",
-    "Prezzo": "5€"
+    "Prezzo": "6€"
   },
 ];
